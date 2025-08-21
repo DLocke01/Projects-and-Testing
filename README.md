@@ -5,4 +5,5 @@ This is where you will find the following:
 - Works in progress
 - Work in beta phases with open testing
 
-_If you would like to participate in an open testing phase listed in this repository, you can reach me through Email._
+__ $${\color{blue}Email}$$
+$${\color{white}If you would like to participate in an open testing phase listed in this repository, you can reach me through}$$
