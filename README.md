@@ -1,2 +1,8 @@
-# Projects-and-Testing
-This is where I keep my completed work, or work that is in progress. Beta phases.
+# ***Projects-and-Testing***
+
+This is where you will find the following:
+- Completed works
+- Works in progress
+- Work in beta phases with open testing
+
+_If you would like to participate in an open testing phase listed in this repository, you can reach me through Email._
